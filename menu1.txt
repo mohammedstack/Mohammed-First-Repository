@@ -1,5 +1,5 @@
-    italian(pasta)
+    italian
     german
     mexican 
     korean
-    lesbian 
+    lesbian
