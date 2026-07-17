@@ -1,5 +1,5 @@
-    italian
+    italian(pizza)
     german
     mexican 
     korean
-    lesbian 
+    lesbian
