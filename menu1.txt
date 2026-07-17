@@ -1,4 +1,4 @@
-    italian(pizza)
+    italian(pasta)
     german
     mexican 
     korean
